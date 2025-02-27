@@ -1,6 +1,6 @@
 # Clean Arch
 
-- ✅ **Endpoint REST** (`GET /order`)
+- ✅ **Endpoint REST**
 - ✅ **Service ListOrders com GRPC**
 - ✅ **Query ListOrders GraphQL**
 
