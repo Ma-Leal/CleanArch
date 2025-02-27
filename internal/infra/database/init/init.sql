@@ -6,6 +6,6 @@ CREATE TABLE IF NOT EXISTS orders (
     PRIMARY KEY (id)
 );
 
-INSERT INTO orders (id, price, tax, final_price) VALUES ('order1', 10.0, 1.5, 15.0);
-INSERT INTO orders (id, price, tax, final_price) VALUES ('order2', 20.0, 2.5, 25.0);
-INSERT INTO orders (id, price, tax, final_price) VALUES ('order3', 30.0, 3.5, 35.0);
+INSERT INTO orders (id, price, tax, final_price) VALUES ('order1', 10.0, 1.5, 11.5);
+INSERT INTO orders (id, price, tax, final_price) VALUES ('order2', 20.0, 2.5, 22.5);
+INSERT INTO orders (id, price, tax, final_price) VALUES ('order3', 30.0, 3.5, 33.5);
